@@ -4,6 +4,11 @@ This project was generated with the purpose of teaching you how to implement ext
 
 To see how it works, open the tsconfig.app.json file and look for the extendedDiagnostics property.
 
+Click on the link below to learn more about Angular extended diagnostics.
+https://mariodante.medium.com/angular-18s-extended-diagnostics-the-key-to-boosting-your-code-quality-2ac3ff983051
+
+---
+
 # Angular18ExtendedDiagnostics
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
