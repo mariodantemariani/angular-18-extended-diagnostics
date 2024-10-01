@@ -1,3 +1,9 @@
+# Description
+
+This project was generated with the purpose of teaching you how to implement extended diagnostics in Angular.
+
+To see how it works, open the tsconfig.app.json file and look for the extendedDiagnostics property.
+
 # Angular18ExtendedDiagnostics
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
